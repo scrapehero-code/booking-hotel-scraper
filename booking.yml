@@ -1,0 +1,35 @@
+hotels:
+    css: div.sr_item
+    multiple: true
+    type: Text
+    children:
+        name:
+            css: span.sr-hotel__name
+            type: Text
+        location:
+            css: a.bui-link
+            type: Text
+        price:
+            css: div.bui-price-display__value
+            type: Text
+        price_for:
+            css: div.bui-price-display__label
+            type: Text
+        room_type:
+            css: strong
+            type: Text
+        beds:
+            css: div.c-beds-configuration
+            type: Text
+        rating:
+            css: div.bui-review-score__badge
+            type: Text
+        rating_title:
+            css: div.bui-review-score__title
+            type: Text
+        number_of_ratings:
+            css: div.bui-review-score__text
+            type: Text
+        url:
+            css: a.hotel_name_link
+            type: Link
