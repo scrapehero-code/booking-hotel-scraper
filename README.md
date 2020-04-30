@@ -1,4 +1,4 @@
-# Booking.com Scraper to scrape hotel prices
+# Web Scraper to extract hotel prices from Booking.com
 
 Scraper to get Hotel price details from any search on Booking.com 
 
